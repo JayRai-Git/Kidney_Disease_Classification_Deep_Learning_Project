@@ -1,3 +1,16 @@
+Metadata-Version: 2.4
+Name: kidney-disease-classification-deep-learning-project
+Version: 0.1.0
+Summary: Add your description here
+Home-page: https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+Author: krishnaik06
+Author-email: entbappy73@gmail.com
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+
 # Kidney-Disease-Classification-MLflow-DVC
 
 
@@ -20,7 +33,7 @@
 Clone the repository
 
 ```bash
-https://github.com/JayRai-Git/Kidney_Disease_Classification_Deep_Learning_Project
+https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
